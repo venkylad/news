@@ -1,0 +1,39 @@
+body{
+    background-color: #ffa8b6;
+}
+
+.title{
+    text-align: center;
+}
+.inputs{
+    width: 55%;
+    margin: 0 auto;
+}
+.loading{
+    text-align: center;
+}
+.jumbotron{
+    margin-top: 30px;
+}
+.card{
+    background-color: #e5eaf5;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 30px;
+    box-shadow: 0 10px 10px -5px;
+}
+
+.btn-sm{
+    width: 20%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+a{
+    color: honeydew;
+    text-decoration: none;
+}
+a :hover{
+    color: white;
+    text-decoration: none;
+}
+
